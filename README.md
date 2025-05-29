@@ -1,8 +1,8 @@
 # Hey! 👋 I'm Milon Mahato
 
 <div align="center">
-  
-  **🚀 Software Engineer | 🧠 Forever Learning | ⚙️ Building Cool Stuff**
+
+  **Software Engineer | Forever Learning | Building Cool Stuff**
   
   *Crafting efficient solutions with Go, Python, Django & AWS*
   
